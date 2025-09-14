@@ -2,3 +2,4 @@
 [2026-03-12] #0002  Reviewed setup instructions  // chore: inicializa modulo 03 - estruturas de controle
 [2026-03-12] #0003  Improved variable naming  // chore: adiciona gitignore e estrutura de pastas mod03
 [2026-03-12] #0004  Added input validation  // style: padroniza emojis numerados nos arquivos js do mo
+[2026-03-12] #0005  Added type hints  // feat: cria base do arquivo estruturas condicionais js
