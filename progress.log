@@ -4,3 +4,4 @@
 [2026-03-12] #0004  Added input validation  // style: padroniza emojis numerados nos arquivos js do mo
 [2026-03-12] #0005  Added type hints  // feat: cria base do arquivo estruturas condicionais js
 [2026-03-12] #0006  Cleaned up unused imports  // refactor: extrai constante TIPOS_POKEMON para reuso
+[2026-03-12] #0007  Simplified loop with list comprehension  // feat: adiciona variaveis de nivel e nome do pokemon
