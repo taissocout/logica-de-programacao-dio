@@ -9,3 +9,4 @@
 [2026-03-12] #0009  Simplified loop with list comprehension  // feat: implementa if else para classificacao de nivel
 [2026-03-12] #0010  Reviewed setup instructions  // fix: corrige mensagem de saida no loop do-while
 [2026-03-12] #0011  Added edge-case handling  // feat: adiciona verificacao de tipo do pokemon com if el
+[2026-03-12] #0012  Reviewed setup instructions  // test: adiciona caso de teste para nivel lendario
