@@ -13,3 +13,4 @@
 [2026-03-12] #0013  Improved variable naming  // refactor: renomeia variaveis para snake_case consistent
 [2026-03-12] #0014  Centralised constants  // style: alinha comentarios das constantes de xp
 [2026-03-12] #0015  Simplified loop with list comprehension  // fix: corrige condicao de nivel lendario de 50 para 51
+[2026-03-12] #0016  Simplified loop with list comprehension  // refactor: usa f-string em vez de concatenacao no classi
