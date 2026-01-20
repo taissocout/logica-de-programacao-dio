@@ -15,3 +15,4 @@
 [2026-03-12] #0015  Simplified loop with list comprehension  // fix: corrige condicao de nivel lendario de 50 para 51
 [2026-03-12] #0016  Simplified loop with list comprehension  // refactor: usa f-string em vez de concatenacao no classi
 [2026-03-12] #0017  Reorganised folder structure  // docs: adiciona comentarios explicativos no if else
+[2026-03-12] #0018  Added early-return pattern  // docs: melhora descricao das funcoes no README mod03
