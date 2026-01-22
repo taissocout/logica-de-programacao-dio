@@ -17,3 +17,4 @@
 [2026-03-12] #0017  Reorganised folder structure  // docs: adiciona comentarios explicativos no if else
 [2026-03-12] #0018  Added early-return pattern  // docs: melhora descricao das funcoes no README mod03
 [2026-03-12] #0019  Optimised query performance  // style: padroniza espacamento e separadores no arquivo j
+[2026-03-12] #0020  Extracted helper function  // chore: remove arquivo temporario de testes do mod03
