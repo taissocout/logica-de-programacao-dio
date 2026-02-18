@@ -19,3 +19,4 @@
 [2026-03-12] #0019  Optimised query performance  // style: padroniza espacamento e separadores no arquivo j
 [2026-03-12] #0020  Extracted helper function  // chore: remove arquivo temporario de testes do mod03
 [2026-03-12] #0021  Added early-return pattern  // feat: cria arquivo switch case selecao de personagem
+[2026-03-12] #0022  Added input validation  // fix: corrige indentacao no bloco else do classificador
