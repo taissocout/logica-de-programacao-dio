@@ -20,3 +20,4 @@
 [2026-03-12] #0020  Extracted helper function  // chore: remove arquivo temporario de testes do mod03
 [2026-03-12] #0021  Added early-return pattern  // feat: cria arquivo switch case selecao de personagem
 [2026-03-12] #0022  Added input validation  // fix: corrige indentacao no bloco else do classificador
+[2026-03-12] #0023  Optimised query performance  // feat: adiciona cases 1 a 4 para tipos de personagem
